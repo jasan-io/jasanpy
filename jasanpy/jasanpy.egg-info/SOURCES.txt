@@ -12,4 +12,4 @@ jasanpy/jasanpy.egg-info/entry_points.txt
 jasanpy/jasanpy.egg-info/requires.txt
 jasanpy/jasanpy.egg-info/top_level.txt
 jasanpy/lookup/__init__.py
-jasanpy/lookup/simple.py
+jasanpy/lookup/lists.py

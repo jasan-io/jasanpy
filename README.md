@@ -1,5 +1,15 @@
 # JasanPy
 
-![Python Logo](https://www.python.org/static/community_logos/python-logo.png "jasanpy")
+JasanPy is a Python package to access data powered by [jasan.io](https://www.jasan.io).
 
-JasanPy is a package that allow you to easily access APIs provided by financial infrastructures. 
+## Lookup
+Using JasanPy, you can retrieve a list of companies that are publicly traded on NYSE, NASDAQ, KOSPI and KOSDAQ [(example)]()
+```
+from jasanpy.lookup.lists import Lists
+def list_example(self):
+    ls = Lists()
+    ls.get_companies_by_keywords("TSLA")
+    # [{'symbol': 'TSLA', 'name': 'Tesla Inc', 'localName': 'Tesla Inc', 'market': 'NASDAQ'}]
+```
+
+
