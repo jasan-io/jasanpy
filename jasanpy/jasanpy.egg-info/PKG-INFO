@@ -1,0 +1,32 @@
+Metadata-Version: 2.1
+Name: jasanpy
+Version: 0.0.1
+Summary: This is a test.
+Home-page: https://github.com/jyoo/monpy
+Author: James Yoo (Jung Sup Yoo)
+Author-email: jungsup.yoo@gmail.com
+License: UNKNOWN
+Project-URL: Bug Reports, https://github.com/jyoo/monpy/issues
+Project-URL: Source, https://github.com/jyoo/monpy/
+Description: # JasanPy
+        
+        ![Python Logo](https://www.python.org/static/community_logos/python-logo.png "jasanpy")
+        
+        JasanPy is a package that allow you to easily access APIs provided by financial infrastructures. 
+        
+Keywords: sample,setuptools,development
+Platform: UNKNOWN
+Classifier: Development Status :: 3 - Alpha
+Classifier: Intended Audience :: Developers
+Classifier: Topic :: Software Development :: Build Tools
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3.6
+Classifier: Programming Language :: Python :: 3.7
+Classifier: Programming Language :: Python :: 3.8
+Classifier: Programming Language :: Python :: 3.9
+Classifier: Programming Language :: Python :: 3 :: Only
+Requires-Python: >=3.6, <4
+Description-Content-Type: text/markdown
+Provides-Extra: dev
+Provides-Extra: test
