@@ -3,7 +3,7 @@
 JasanPy is a Python package to access data powered by [jasan.io](https://www.jasan.io).
 
 ## Lookup
-Using JasanPy, you can retrieve a list of companies that are publicly traded on NYSE, NASDAQ, KOSPI and KOSDAQ [(example)]()
+Using JasanPy, you can retrieve a list of companies that are publicly traded on NYSE, NASDAQ, KOSPI and KOSDAQ [(example)](https://github.com/jasan-io/jasanpy/blob/main/example/lookup.py)
 ```
 from jasanpy.lookup.lists import Lists
 def list_example(self):
